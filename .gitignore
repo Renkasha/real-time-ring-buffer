@@ -1,0 +1,29 @@
+# Build directories
+build/
+CMakeFiles/
+cmake_build_debug/
+cmake_build_release/
+*.cmake
+CMakeCache.txt
+
+# Executables
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+ring_buffer_example
+ring_buffer_benchmark
+ring_buffer_test
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Dependencies
+dependencies/
+vendor/
