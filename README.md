@@ -9,7 +9,8 @@ If this project helped you, consider buying me a coffee!
 
 Or donate directly: https://ko-fi.com/Renkasha
 A production-ready, **lock-free, thread-safe circular buffer** for high-performance real-time data streaming in C++. Designed for sub-millisecond latency applications like robotics, video streaming, audio processing, and financial systems.
-
+You can find a complete, compilable version of this multi-threaded sensor pipeline under:
+📂 `src/examples/imu_pipeline.cpp`
 ## Features
 
 ✅ **Lock-Free Design** — Uses `std::atomic` with memory ordering for thread-safe concurrent access without mutexes  
