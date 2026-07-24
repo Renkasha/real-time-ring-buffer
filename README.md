@@ -1,5 +1,7 @@
 # Real-Time Ring Buffer
+## Support This Project
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Renkasha)
 A production-ready, **lock-free, thread-safe circular buffer** for high-performance real-time data streaming in C++. Designed for sub-millisecond latency applications like robotics, video streaming, audio processing, and financial systems.
 
 ## Features
